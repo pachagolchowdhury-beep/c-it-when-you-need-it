@@ -4,8 +4,7 @@
 
 A grabbag of **C programs** for when the clock is ticking, the compiler is open, and your brain has quietly left the building. 🫠
 
-**⚠️ DISCLAIMER: Extremely beginner/beginner-friendly programs. Beware of basicity.** You've been warned. This is not LeetCode. This is *"oh god the assignment is due in an hour"* energy, bottled and committed.
-
+**⚠️ DISCLAIMER: Extremely beginner/beginner-friendly programs. Beware of basicity.** 
 ---
 
 ## 📦 What's in the box
